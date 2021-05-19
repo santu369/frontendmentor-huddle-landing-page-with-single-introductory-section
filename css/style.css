@@ -213,7 +213,7 @@ body {
     max-width: 75rem;
   }
   .header__branding {
-    padding-left: 2em;
+    margin-left: 2em;
     width: 14em;
   }
 
